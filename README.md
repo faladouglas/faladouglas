@@ -4,7 +4,7 @@
 
 - 🔭 me encontro em transição profissional para area de programação 
 - 🌱 2° semestre em analise e desenvolvimento de sistemas (FACENS-Sorocaba)
-- ⚡ Curioso em aprender coisas novas, faixa-roxa de | Jiu Jitsu |.
+- ⚡ Curioso em aprender coisas novas, disciplinado e adaptativo.
 
 <div align="center">
   <a href="https://github.com/faladouglas">
